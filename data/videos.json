@@ -1,0 +1,32 @@
+[
+ {
+  "slug": "imjustnewatai-168580",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106081142143168580",
+  "title": "Human progress, as one day — THE SECOND DAY",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas",
+   "web-audio"
+  ],
+  "prompt": "A video of all human progress, then 30 years into the future",
+  "prompt_partial": false,
+  "added": "2026-10-10"
+ },
+ {
+  "slug": "imjustnewatai-180510",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106162924331180510",
+  "title": "From 3 quarks to the observable universe in 94 seconds",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas",
+   "web-audio"
+  ],
+  "prompt": "Come up with a video idea yourself — the requirement is that it makes people go \"I had no idea AI could do this.\"",
+  "prompt_partial": true,
+  "added": "2026-10-10"
+ }
+]
