@@ -12,7 +12,11 @@
   ],
   "prompt": "A video of all human progress, then 30 years into the future",
   "prompt_partial": false,
-  "added": "2026-10-10"
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 355293,
+   "captured_at": "2026-10-10"
+  }
  },
  {
   "slug": "imjustnewatai-180510",
@@ -74,5 +78,819 @@
   "prompt": "Create an SVG of a Nintendo Switch, with an animation of the controllers getting snapped into the console, and the screen booting up with the logo.",
   "prompt_partial": false,
   "added": "2026-10-10"
+ },
+ {
+  "slug": "cherry-mx-reds-432073",
+  "author": "cherry_mx_reds",
+  "author_url": "https://x.com/cherry_mx_reds",
+  "post_url": "https://x.com/cherry_mx_reds/status/2105825930799432073",
+  "title": "Dot prompt becomes Pixar-style animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 828141,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "zadrielsan-001360",
+  "author": "zAdrielsan",
+  "author_url": "https://x.com/zAdrielsan",
+  "post_url": "https://x.com/zAdrielsan/status/2105822678519001360",
+  "title": "Three-body problem physics simulation in Bend2",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 344224,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "cherry-mx-reds-144331",
+  "author": "cherry_mx_reds",
+  "author_url": "https://x.com/cherry_mx_reds",
+  "post_url": "https://x.com/cherry_mx_reds/status/2106095190285144331",
+  "title": "40,000 years of art history video",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 213254,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "cherry-mx-reds-009224",
+  "author": "cherry_mx_reds",
+  "author_url": "https://x.com/cherry_mx_reds",
+  "post_url": "https://x.com/cherry_mx_reds/status/2105816670896009224",
+  "title": "Cool animation generated from simple prompt",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 164140,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "imjustnewatai-354669",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2105808539495354669",
+  "title": "Short generated animated video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 155246,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "mindblown-ai-199037",
+  "author": "mindblown_ai",
+  "author_url": "https://x.com/mindblown_ai",
+  "post_url": "https://x.com/mindblown_ai/status/2106112279079199037",
+  "title": "Waymo drive down Lombard Street",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 108932,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ishuagra02-419727",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2106045364868419727",
+  "title": "Day in the life of Claude animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 84869,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "saccc-c-377531",
+  "author": "Saccc_c",
+  "author_url": "https://x.com/Saccc_c",
+  "post_url": "https://x.com/Saccc_c/status/2105985484472377531",
+  "title": "One-prompt motion demo clip",
+  "category": "motion",
+  "tech_tags": [
+   "remotion",
+   "hyperframes"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 77035,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-387163",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2106031355922387163",
+  "title": "Short motion design video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 77009,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-782557",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2105884276864782557",
+  "title": "Hugging Face incident animated short",
+  "category": "long-form",
+  "tech_tags": [
+   "blender",
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 76088,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "spac89-318451",
+  "author": "SPAC89",
+  "author_url": "https://x.com/SPAC89",
+  "post_url": "https://x.com/SPAC89/status/2105783511433318451",
+  "title": "Fable 5.5 vs GPT 6.1 speed/quality test",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 70556,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-147541",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2105792187200147541",
+  "title": "Marvel and DC heroes one-shot animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 66349,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-900621",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2107108802440900621",
+  "title": "Pixel art boss-battle game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 62724,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ishuagra02-594134",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2106369929813594134",
+  "title": "Character vignette animation synced to a beat",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 61533,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "abhinavflac-373114",
+  "author": "abhinavflac",
+  "author_url": "https://x.com/abhinavflac",
+  "post_url": "https://x.com/abhinavflac/status/2106638839666373114",
+  "title": "Eminem Godzilla video redrawn in JavaScript",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 56942,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "maxblade-529606",
+  "author": "_MaxBlade",
+  "author_url": "https://x.com/_MaxBlade",
+  "post_url": "https://x.com/_MaxBlade/status/2103847223557529606",
+  "title": "50-player battle royale browser game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 54566,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-760024",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2107459553369760024",
+  "title": "Brainrot Video Edit",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 47091,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "imjustnewatai-109991",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2105889407056109991",
+  "title": "3D Rube Goldberg machine simulation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 42747,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "vib3coded-029473",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2106056420131029473",
+  "title": "Interactive jelly watermelon toy",
+  "category": "games-interactive",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 42502,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ziwenxu-741045",
+  "author": "ziwenxu_",
+  "author_url": "https://x.com/ziwenxu_",
+  "post_url": "https://x.com/ziwenxu_/status/2105983571848741045",
+  "title": "Civilization history animated film",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 41771,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "mesmerlord-288692",
+  "author": "mesmerlord",
+  "author_url": "https://x.com/mesmerlord",
+  "post_url": "https://x.com/mesmerlord/status/2105771088374288692",
+  "title": "Release trailer comparison between two models",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 40451,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-055242",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2108221060655055242",
+  "title": "Minecraft clone built with Fable 5.5",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 40119,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-082297",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2106076940558082297",
+  "title": "Viral memes 2010-2026 timeline video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 39539,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-701214",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2105934928483701214",
+  "title": "Hugging Face incident music video",
+  "category": "music-videos",
+  "tech_tags": [
+   "blender",
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 35983,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "saccc-c-761094",
+  "author": "Saccc_c",
+  "author_url": "https://x.com/Saccc_c",
+  "post_url": "https://x.com/Saccc_c/status/2106376222309761094",
+  "title": "15-Second Motion Graphics Showcase",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 25251,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-978867",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2106248621519978867",
+  "title": "Spider-Man comic eras",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 24104,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-599730",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2107129409576599730",
+  "title": "AI Model Showdown Animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 23427,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ishuagra02-641241",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2106138602073641241",
+  "title": "Claude mascot coworker mod demo",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 23216,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-710023",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2106833074302710023",
+  "title": "Code-painted animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 22834,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "spac89-202591",
+  "author": "SPAC89",
+  "author_url": "https://x.com/SPAC89",
+  "post_url": "https://x.com/SPAC89/status/2105968361725202591",
+  "title": "Fable 5.5 vs GPT-6.1 comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 20436,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "badboyfoxy-543348",
+  "author": "badboyfoxy",
+  "author_url": "https://x.com/badboyfoxy",
+  "post_url": "https://x.com/badboyfoxy/status/2106073473361543348",
+  "title": "Side-by-side design output comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 20419,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "explorax-444396",
+  "author": "exploraX_",
+  "author_url": "https://x.com/exploraX_",
+  "post_url": "https://x.com/exploraX_/status/2107435761490444396",
+  "title": "Animated website from a single image: Opus vs GPT-6.1",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 19588,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "andrewonxyz-395712",
+  "author": "AndrewOnXYZ",
+  "author_url": "https://x.com/AndrewOnXYZ",
+  "post_url": "https://x.com/AndrewOnXYZ/status/2106097745098395712",
+  "title": "Animated AGI declaration short",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 18640,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-655748",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2106041578204655748",
+  "title": "History of humanity animation",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 18258,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "vikktorrrre-588084",
+  "author": "vikktorrrre",
+  "author_url": "https://x.com/vikktorrrre",
+  "post_url": "https://x.com/vikktorrrre/status/2105955048018588084",
+  "title": "Voxel Japanese garden in Three.js",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 18218,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "emostaque-091943",
+  "author": "EMostaque",
+  "author_url": "https://x.com/EMostaque",
+  "post_url": "https://x.com/EMostaque/status/2106065029850091943",
+  "title": "21-world boss battle game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 17307,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-792415",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2106060047805792415",
+  "title": "Strait of Hormuz debate animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 14223,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "notjazii-998967",
+  "author": "notjazii",
+  "author_url": "https://x.com/notjazii",
+  "post_url": "https://x.com/notjazii/status/2106050222828998967",
+  "title": "3D controller model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 11546,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "jaydendavisnc-474652",
+  "author": "JaydenDavisNC",
+  "author_url": "https://x.com/JaydenDavisNC",
+  "post_url": "https://x.com/JaydenDavisNC/status/2106960127987474652",
+  "title": "Pelican voxel scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 10311,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "imjustnewatai-956427",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106238699872956427",
+  "title": "Atomic bomb history 3D film",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 9899,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "oalanicolas-241037",
+  "author": "oalanicolas",
+  "author_url": "https://x.com/oalanicolas",
+  "post_url": "https://x.com/oalanicolas/status/2107958931230241037",
+  "title": "History of humanity sketch animation",
+  "category": "motion",
+  "tech_tags": [
+   "ffmpeg",
+   "python"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 8756,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "devteamdrew-021549",
+  "author": "devteamdrew",
+  "author_url": "https://x.com/devteamdrew",
+  "post_url": "https://x.com/devteamdrew/status/2106155815707021549",
+  "title": "Claude introduction video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 8735,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "maxt3chno-672708",
+  "author": "maxt3chno",
+  "author_url": "https://x.com/maxt3chno",
+  "post_url": "https://x.com/maxt3chno/status/2106838003561672708",
+  "title": "Playable island game preview",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 7063,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ishuagra02-784118",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2106000055706784118",
+  "title": "Watercolor fall animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 6308,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "harshithlucky3-903602",
+  "author": "HarshithLucky3",
+  "author_url": "https://x.com/HarshithLucky3",
+  "post_url": "https://x.com/HarshithLucky3/status/2105765253799903602",
+  "title": "Superintelligence era scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 5133,
+   "captured_at": "2026-10-10"
+  }
  }
 ]

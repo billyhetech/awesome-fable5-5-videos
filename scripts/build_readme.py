@@ -42,6 +42,13 @@ TAG_LABELS = {
     "playable": "Playable",
     "ai-image": "AI image",
     "physics": "Physics",
+    "webgpu": "WebGPU",
+    "remotion": "Remotion",
+    "hyperframes": "HyperFrames",
+    "blender": "Blender",
+    "elevenlabs": "ElevenLabs",
+    "ffmpeg": "FFmpeg",
+    "python": "Python",
 }
 
 STRINGS = {

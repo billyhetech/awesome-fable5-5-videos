@@ -23,6 +23,7 @@ CATEGORIES = {"motion", "explainer", "3d-scenes", "games-interactive", "long-for
 TAGS = {
     "canvas", "svg", "threejs", "glsl", "gsap", "css", "webgl", "web-audio",
     "particles", "pixel-art", "playable", "ai-image", "physics",
+    "webgpu", "remotion", "hyperframes", "blender", "elevenlabs", "ffmpeg", "python",
 }
 
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*-\d{6}$")
