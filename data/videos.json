@@ -28,5 +28,51 @@
   "prompt": "Come up with a video idea yourself — the requirement is that it makes people go \"I had no idea AI could do this.\"",
   "prompt_partial": true,
   "added": "2026-10-10"
+ },
+ {
+  "slug": "chetaslua-504862",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2105757136219504862",
+  "title": "Superman through 5,000 years of art history, in 20 styles",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 537000,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "mesmerlord-049235",
+  "author": "mesmerlord",
+  "author_url": "https://x.com/mesmerlord",
+  "post_url": "https://x.com/mesmerlord/status/2105758042830549235",
+  "title": "Marvel & DC heroes drawn in pure JavaScript, eyes follow the mouse",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10"
+ },
+ {
+  "slug": "ishuagra02-359470",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2105779174921359470",
+  "title": "Nintendo Switch SVG boot-up animation",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "Create an SVG of a Nintendo Switch, with an animation of the controllers getting snapped into the console, and the screen booting up with the logo.",
+  "prompt_partial": false,
+  "added": "2026-10-10"
  }
 ]

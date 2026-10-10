@@ -5,22 +5,24 @@
 
 用 **Fable 5.5**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **2 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
+[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **3 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-10):共 2 条
+- 最近更新(2026-10-10):共 5 条
 
 ## 目录
 
-- [动态图形](#动态图形) (0)
+- [动态图形](#动态图形) (2)
 - [讲解动画](#讲解动画) (1)
 - [3D 场景](#3d-场景) (0)
-- [游戏与交互](#游戏与交互) (0)
+- [游戏与交互](#游戏与交互) (1)
 - [长片](#长片) (1)
 - [音乐视频](#音乐视频) (0)
 
 ## 动态图形
 
-_还没有收录 —— [来提交第一个](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)。_
+<table>
+<tr><td width="33%" valign="top"><a href="https://x.com/chetaslua/status/2105757136219504862"><b>Superman through 5,000 years of art history, in 20 styles</b></a><br><a href="https://x.com/chetaslua"><b>@chetaslua</b></a> · <a href="prompts/chetaslua-504862.md">详情</a><br><sub>Canvas · 537K views</sub></td><td width="33%" valign="top"><a href="https://x.com/ishuagra02/status/2105779174921359470"><b>Nintendo Switch SVG boot-up animation</b></a><br><a href="https://x.com/ishuagra02"><b>@ishuagra02</b></a> · <a href="prompts/ishuagra02-359470.md">提示词</a><br><sub>SVG</sub></td></tr>
+</table>
 
 ## 讲解动画
 
@@ -34,7 +36,9 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 游戏与交互
 
-_还没有收录 —— [来提交第一个](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)。_
+<table>
+<tr><td width="33%" valign="top"><a href="https://x.com/mesmerlord/status/2105758042830549235"><b>Marvel & DC heroes drawn in pure JavaScript, eyes follow the mouse</b></a><br><a href="https://x.com/mesmerlord"><b>@mesmerlord</b></a> · <a href="prompts/mesmerlord-049235.md">详情</a><br><sub>Canvas</sub></td></tr>
+</table>
 
 ## 长片
 

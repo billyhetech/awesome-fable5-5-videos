@@ -5,22 +5,24 @@
 
 Viral videos made with **Fable 5.5** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**2 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
+**3 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-10): 2 videos total
+- Latest update (2026-10-10): 5 videos total
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (0)
+- [Motion graphics](#motion-graphics) (2)
 - [Explainers](#explainers) (1)
 - [3D scenes](#3d-scenes) (0)
-- [Games & interactive](#games--interactive) (0)
+- [Games & interactive](#games--interactive) (1)
 - [Long-form](#long-form) (1)
 - [Music videos](#music-videos) (0)
 
 ## Motion graphics
 
-_No entries yet — [submit one](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)._
+<table>
+<tr><td width="33%" valign="top"><a href="https://x.com/chetaslua/status/2105757136219504862"><b>Superman through 5,000 years of art history, in 20 styles</b></a><br><a href="https://x.com/chetaslua"><b>@chetaslua</b></a> · <a href="prompts/chetaslua-504862.md">Details</a><br><sub>Canvas · 537K views</sub></td><td width="33%" valign="top"><a href="https://x.com/ishuagra02/status/2105779174921359470"><b>Nintendo Switch SVG boot-up animation</b></a><br><a href="https://x.com/ishuagra02"><b>@ishuagra02</b></a> · <a href="prompts/ishuagra02-359470.md">Prompt</a><br><sub>SVG</sub></td></tr>
+</table>
 
 ## Explainers
 
@@ -34,7 +36,9 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-fable5-5
 
 ## Games & interactive
 
-_No entries yet — [submit one](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)._
+<table>
+<tr><td width="33%" valign="top"><a href="https://x.com/mesmerlord/status/2105758042830549235"><b>Marvel & DC heroes drawn in pure JavaScript, eyes follow the mouse</b></a><br><a href="https://x.com/mesmerlord"><b>@mesmerlord</b></a> · <a href="prompts/mesmerlord-049235.md">Details</a><br><sub>Canvas</sub></td></tr>
+</table>
 
 ## Long-form
 
