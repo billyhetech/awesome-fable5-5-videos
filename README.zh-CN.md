@@ -7,14 +7,14 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **3 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-10):共 50 条
+- 最近更新(2026-10-12):共 51 条
 
 ## 目录
 
 - [动态图形](#动态图形) (28)
 - [讲解动画](#讲解动画) (2)
 - [3D 场景](#3d-场景) (4)
-- [游戏与交互](#游戏与交互) (8)
+- [游戏与交互](#游戏与交互) (9)
 - [长片](#长片) (6)
 - [音乐视频](#音乐视频) (2)
 
@@ -49,9 +49,9 @@
 ## 游戏与交互
 
 <table>
-<tr><td width="33%" valign="top"><a href="https://x.com/mesmerlord/status/2105758042830549235"><b>Marvel & DC heroes drawn in pure JavaScript, eyes follow the mouse</b></a><br><a href="https://x.com/mesmerlord"><b>@mesmerlord</b></a> · <a href="prompts/mesmerlord-049235.md">详情</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://x.com/mindblown_ai/status/2106112279079199037"><b>Waymo drive down Lombard Street</b></a><br><a href="https://x.com/mindblown_ai"><b>@mindblown_ai</b></a> · <a href="prompts/mindblown-ai-199037.md">详情</a><br><sub>Three.js · 109K views</sub></td><td width="33%" valign="top"><a href="https://x.com/blueemi99/status/2107108802440900621"><b>Pixel art boss-battle game</b></a><br><a href="https://x.com/blueemi99"><b>@blueemi99</b></a> · <a href="prompts/blueemi99-900621.md">详情</a><br><sub>Canvas · 63K views</sub></td></tr>
-<tr><td width="33%" valign="top"><a href="https://x.com/_MaxBlade/status/2103847223557529606"><b>50-player battle royale browser game</b></a><br><a href="https://x.com/_MaxBlade"><b>@_MaxBlade</b></a> · <a href="prompts/maxblade-529606.md">详情</a><br><sub>Three.js · 55K views</sub></td><td width="33%" valign="top"><a href="https://x.com/vib3coded/status/2106056420131029473"><b>Interactive jelly watermelon toy</b></a><br><a href="https://x.com/vib3coded"><b>@vib3coded</b></a> · <a href="prompts/vib3coded-029473.md">详情</a><br><sub>WebGPU · 43K views</sub></td><td width="33%" valign="top"><a href="https://x.com/blueemi99/status/2108221060655055242"><b>Minecraft clone built with Fable 5.5</b></a><br><a href="https://x.com/blueemi99"><b>@blueemi99</b></a> · <a href="prompts/blueemi99-055242.md">详情</a><br><sub>Canvas · 40K views</sub></td></tr>
-<tr><td width="33%" valign="top"><a href="https://x.com/EMostaque/status/2106065029850091943"><b>21-world boss battle game</b></a><br><a href="https://x.com/EMostaque"><b>@EMostaque</b></a> · <a href="prompts/emostaque-091943.md">详情</a><br><sub>Canvas · 17K views</sub></td><td width="33%" valign="top"><a href="https://x.com/maxt3chno/status/2106838003561672708"><b>Playable island game preview</b></a><br><a href="https://x.com/maxt3chno"><b>@maxt3chno</b></a> · <a href="prompts/maxt3chno-672708.md">详情</a><br><sub>Three.js · 7K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://x.com/notjazii/status/2108590346309706221"><b>Minecraft-style sandbox with weather, mobs and weapons</b></a><br><a href="https://x.com/notjazii"><b>@notjazii</b></a> · <a href="prompts/notjazii-706221.md">详情</a><br><sub>Canvas · 10K views</sub></td><td width="33%" valign="top"><a href="https://x.com/mesmerlord/status/2105758042830549235"><b>Marvel & DC heroes drawn in pure JavaScript, eyes follow the mouse</b></a><br><a href="https://x.com/mesmerlord"><b>@mesmerlord</b></a> · <a href="prompts/mesmerlord-049235.md">详情</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://x.com/mindblown_ai/status/2106112279079199037"><b>Waymo drive down Lombard Street</b></a><br><a href="https://x.com/mindblown_ai"><b>@mindblown_ai</b></a> · <a href="prompts/mindblown-ai-199037.md">详情</a><br><sub>Three.js · 109K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://x.com/blueemi99/status/2107108802440900621"><b>Pixel art boss-battle game</b></a><br><a href="https://x.com/blueemi99"><b>@blueemi99</b></a> · <a href="prompts/blueemi99-900621.md">详情</a><br><sub>Canvas · 63K views</sub></td><td width="33%" valign="top"><a href="https://x.com/_MaxBlade/status/2103847223557529606"><b>50-player battle royale browser game</b></a><br><a href="https://x.com/_MaxBlade"><b>@_MaxBlade</b></a> · <a href="prompts/maxblade-529606.md">详情</a><br><sub>Three.js · 55K views</sub></td><td width="33%" valign="top"><a href="https://x.com/vib3coded/status/2106056420131029473"><b>Interactive jelly watermelon toy</b></a><br><a href="https://x.com/vib3coded"><b>@vib3coded</b></a> · <a href="prompts/vib3coded-029473.md">详情</a><br><sub>WebGPU · 43K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://x.com/blueemi99/status/2108221060655055242"><b>Minecraft clone built with Fable 5.5</b></a><br><a href="https://x.com/blueemi99"><b>@blueemi99</b></a> · <a href="prompts/blueemi99-055242.md">详情</a><br><sub>Canvas · 40K views</sub></td><td width="33%" valign="top"><a href="https://x.com/EMostaque/status/2106065029850091943"><b>21-world boss battle game</b></a><br><a href="https://x.com/EMostaque"><b>@EMostaque</b></a> · <a href="prompts/emostaque-091943.md">详情</a><br><sub>Canvas · 17K views</sub></td><td width="33%" valign="top"><a href="https://x.com/maxt3chno/status/2106838003561672708"><b>Playable island game preview</b></a><br><a href="https://x.com/maxt3chno"><b>@maxt3chno</b></a> · <a href="prompts/maxt3chno-672708.md">详情</a><br><sub>Three.js · 7K views</sub></td></tr>
 </table>
 
 ## 长片
