@@ -892,5 +892,23 @@
    "views": 5133,
    "captured_at": "2026-10-10"
   }
+ },
+ {
+  "slug": "notjazii-706221",
+  "author": "notjazii",
+  "author_url": "https://x.com/notjazii",
+  "post_url": "https://x.com/notjazii/status/2108590346309706221",
+  "title": "Minecraft-style sandbox with weather, mobs and weapons",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-12",
+  "stats_snapshot": {
+   "views": 10119,
+   "captured_at": "2026-10-12"
+  }
  }
 ]
