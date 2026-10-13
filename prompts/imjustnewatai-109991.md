@@ -6,4 +6,8 @@
 - **Built with:** Canvas
 - **Author:** [@imjustnewatai](https://x.com/imjustnewatai)
 
-> The author didn't publish a prompt for this one. Watch the original post linked above.
+## Prompt
+
+```text
+Extremely complicated 3d rube goldberg machine, accurate physics, aaa gfx, vfx
+```

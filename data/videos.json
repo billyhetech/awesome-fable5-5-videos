@@ -397,8 +397,8 @@
   "tech_tags": [
    "canvas"
   ],
-  "prompt": "",
-  "prompt_partial": true,
+  "prompt": "Extremely complicated 3d rube goldberg machine, accurate physics, aaa gfx, vfx",
+  "prompt_partial": false,
   "added": "2026-10-10",
   "stats_snapshot": {
    "views": 42747,
@@ -578,8 +578,8 @@
   "tech_tags": [
    "canvas"
   ],
-  "prompt": "",
-  "prompt_partial": true,
+  "prompt": "create a motion video that shows the various animations/states of each claude state every beat with music",
+  "prompt_partial": false,
   "added": "2026-10-10",
   "stats_snapshot": {
    "views": 23216,
@@ -892,5 +892,841 @@
    "views": 5133,
    "captured_at": "2026-10-10"
   }
+ },
+ {
+  "slug": "notjazii-706221",
+  "author": "notjazii",
+  "author_url": "https://x.com/notjazii",
+  "post_url": "https://x.com/notjazii/status/2108590346309706221",
+  "title": "Minecraft-style sandbox with weather, mobs and weapons",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-12",
+  "stats_snapshot": {
+   "views": 10119,
+   "captured_at": "2026-10-12"
+  }
+ },
+ {
+  "slug": "beyondwudan-957122",
+  "author": "beyondwudan",
+  "author_url": "https://x.com/beyondwudan",
+  "post_url": "https://x.com/beyondwudan/status/2109432722250957122",
+  "title": "A spacecraft orbiting Earth in Three.js",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-462070",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2109191246715462070",
+  "title": "A four-movement symphony with every note visualized",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Write a beautiful symphony\n\nrecord a video of it when you're done.",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-345211",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2107970825542345211",
+  "title": "A 3D walkthrough of the new proof about pi",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-960144",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2107625700307960144",
+  "title": "A 3D explainer of the free group factor proof",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "thomas-jorgen-408349",
+  "author": "Thomas_jorgen",
+  "author_url": "https://x.com/Thomas_jorgen",
+  "post_url": "https://x.com/Thomas_jorgen/status/2107273424884408349",
+  "title": "A SWAT shooter game built with Three.js",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "ishuagra02-604925",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2107164574239604925",
+  "title": "A calm product promo animation for Claude",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-449392",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2107092333720449392",
+  "title": "An optical illusion nobody has seen before",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "jaydendavisnc-870617",
+  "author": "JaydenDavisNC",
+  "author_url": "https://x.com/JaydenDavisNC",
+  "post_url": "https://x.com/JaydenDavisNC/status/2107086714820870617",
+  "title": "A Blender animation starring the dots mascots",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "aisuperdomain-318838",
+  "author": "AISuperDomain",
+  "author_url": "https://x.com/AISuperDomain",
+  "post_url": "https://x.com/AISuperDomain/status/2106988921125318838",
+  "title": "A channel intro film",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "wokidev-511754",
+  "author": "wokidev",
+  "author_url": "https://x.com/wokidev",
+  "post_url": "https://x.com/wokidev/status/2106981754653511754",
+  "title": "PostRush launch film",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "congcongtang-846301",
+  "author": "congcongtang",
+  "author_url": "https://x.com/congcongtang",
+  "post_url": "https://x.com/congcongtang/status/2106960360053846301",
+  "title": "A website intro film from one sentence",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "syskasof-547945",
+  "author": "SysKaSof",
+  "author_url": "https://x.com/SysKaSof",
+  "post_url": "https://x.com/SysKaSof/status/2106955391632547945",
+  "title": "A blue-and-gold nocturne in a frame",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "jaydendavisnc-788537",
+  "author": "JaydenDavisNC",
+  "author_url": "https://x.com/JaydenDavisNC",
+  "post_url": "https://x.com/JaydenDavisNC/status/2106938093785788537",
+  "title": "A pelican cycling at sunset, in SVG",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-323550",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106925762582323550",
+  "title": "A black hole renderer from scratch",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-945180",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106909392301945180",
+  "title": "Ten visual illusions",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "blushneyy-928305",
+  "author": "Blushneyy",
+  "author_url": "https://x.com/Blushneyy",
+  "post_url": "https://x.com/Blushneyy/status/2106893568828928305",
+  "title": "Vizzbees brand motion design",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "make a motion design for vizzbees",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "noreply134882-957013",
+  "author": "Noreply134882",
+  "author_url": "https://x.com/Noreply134882",
+  "post_url": "https://x.com/Noreply134882/status/2106888758062957013",
+  "title": "A New Paradigm: Fable announces itself",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "aisuperdomain-226720",
+  "author": "AISuperDomain",
+  "author_url": "https://x.com/AISuperDomain",
+  "post_url": "https://x.com/AISuperDomain/status/2106762365438226720",
+  "title": "Life from the Cambrian to the Quaternary",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "turbonexic-835934",
+  "author": "TurboNexic",
+  "author_url": "https://x.com/TurboNexic",
+  "post_url": "https://x.com/TurboNexic/status/2106710792590835934",
+  "title": "A math edit",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-730419",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106546810793730419",
+  "title": "How a large language model is made",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "cocoloba-970458",
+  "author": "cocoloba_",
+  "author_url": "https://x.com/cocoloba_",
+  "post_url": "https://x.com/cocoloba_/status/2106512963414970458",
+  "title": "Humanity's biggest opportunity, no words",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "whats the biggest opportunity in humanity, no words allowed",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "olddonkeyblog-330750",
+  "author": "olddonkeyblog",
+  "author_url": "https://x.com/olddonkeyblog",
+  "post_url": "https://x.com/olddonkeyblog/status/2106508425211330750",
+  "title": "Glucose to ethanol, as an animated SVG",
+  "category": "explainer",
+  "tech_tags": [
+   "svg",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "olddonkeyblog-403485",
+  "author": "olddonkeyblog",
+  "author_url": "https://x.com/olddonkeyblog",
+  "post_url": "https://x.com/olddonkeyblog/status/2106507742454403485",
+  "title": "16 Starships launching, as an animated SVG",
+  "category": "explainer",
+  "tech_tags": [
+   "svg",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "olddonkeyblog-756165",
+  "author": "olddonkeyblog",
+  "author_url": "https://x.com/olddonkeyblog",
+  "post_url": "https://x.com/olddonkeyblog/status/2106507429265756165",
+  "title": "A pelican riding a bicycle",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "dassetbuzz-592838",
+  "author": "DAssetBuzz",
+  "author_url": "https://x.com/DAssetBuzz",
+  "post_url": "https://x.com/DAssetBuzz/status/2106505100575592838",
+  "title": "What would make Fable better",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-197771",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106489784382197771",
+  "title": "The next 150 years of humanity",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "jaydendavisnc-822008",
+  "author": "JaydenDavisNC",
+  "author_url": "https://x.com/JaydenDavisNC",
+  "post_url": "https://x.com/JaydenDavisNC/status/2106440774367822008",
+  "title": "Reawakening, a horror short",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "0xashtonx-914423",
+  "author": "0xashtonx",
+  "author_url": "https://x.com/0xashtonx",
+  "post_url": "https://x.com/0xashtonx/status/2106421702783914423",
+  "title": "A 40-second brand launch ad",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "mathisbuilds-418097",
+  "author": "mathisbuilds",
+  "author_url": "https://x.com/mathisbuilds",
+  "post_url": "https://x.com/mathisbuilds/status/2106407842240418097",
+  "title": "Nintendo Switch 3 concept demo",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "aisuperdomain-526445",
+  "author": "AISuperDomain",
+  "author_url": "https://x.com/AISuperDomain",
+  "post_url": "https://x.com/AISuperDomain/status/2106397756491526445",
+  "title": "Art history speedrun",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "aisuperdomain-360272",
+  "author": "AISuperDomain",
+  "author_url": "https://x.com/AISuperDomain",
+  "post_url": "https://x.com/AISuperDomain/status/2106396754539360272",
+  "title": "A 3D walk through the Palace of Versailles",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "hungryturbo-019904",
+  "author": "hungryturbo",
+  "author_url": "https://x.com/hungryturbo",
+  "post_url": "https://x.com/hungryturbo/status/2106339115642019904",
+  "title": "Sanxingdui, animated",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "hungryturbo-695508",
+  "author": "hungryturbo",
+  "author_url": "https://x.com/hungryturbo",
+  "post_url": "https://x.com/hungryturbo/status/2106294812261695508",
+  "title": "The Silk Road, animated",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "badboyfoxy-387799",
+  "author": "badboyfoxy",
+  "author_url": "https://x.com/badboyfoxy",
+  "post_url": "https://x.com/badboyfoxy/status/2106241189976387799",
+  "title": "A scary video about the Illuminati",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "ckmichael8-878248",
+  "author": "ckmichael8",
+  "author_url": "https://x.com/ckmichael8",
+  "post_url": "https://x.com/ckmichael8/status/2106223791877878248",
+  "title": "A 3D sailor girl in 7,400 lines of code",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-276065",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106204392588276065",
+  "title": "The Altman–Amodei feud, explained",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "synthshareai-446028",
+  "author": "synthshareai",
+  "author_url": "https://x.com/synthshareai",
+  "post_url": "https://x.com/synthshareai/status/2106195060140446028",
+  "title": "A music video, 12 hours of work",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-097663",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106190594775097663",
+  "title": "From three quarks to the observable universe",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "layton-gott-035096",
+  "author": "Layton_Gott",
+  "author_url": "https://x.com/Layton_Gott",
+  "post_url": "https://x.com/Layton_Gott/status/2106190496075035096",
+  "title": "The world in 2076",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "nroze22-381661",
+  "author": "nroze22",
+  "author_url": "https://x.com/nroze22",
+  "post_url": "https://x.com/nroze22/status/2106183281293381661",
+  "title": "Lower Manhattan, drawn year by year",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "yanqingcheng-269728",
+  "author": "YanqingCheng",
+  "author_url": "https://x.com/YanqingCheng",
+  "post_url": "https://x.com/YanqingCheng/status/2106158746938269728",
+  "title": "The Seikilos epitaph, in one HTML file",
+  "category": "long-form",
+  "tech_tags": [
+   "web-audio",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "maciejkrupowies-338850",
+  "author": "maciejkrupowies",
+  "author_url": "https://x.com/maciejkrupowies",
+  "post_url": "https://x.com/maciejkrupowies/status/2106153578029338850",
+  "title": "A post-apocalyptic Hearthstone clone",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "noreply134882-478746",
+  "author": "Noreply134882",
+  "author_url": "https://x.com/Noreply134882",
+  "post_url": "https://x.com/Noreply134882/status/2106116572389478746",
+  "title": "A Three.js 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "devswha-114186",
+  "author": "devswha",
+  "author_url": "https://x.com/devswha",
+  "post_url": "https://x.com/devswha/status/2106072107365114186",
+  "title": "A motion film from one line",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "cherry-mx-reds-447590",
+  "author": "cherry_mx_reds",
+  "author_url": "https://x.com/cherry_mx_reds",
+  "post_url": "https://x.com/cherry_mx_reds/status/2106056643255447590",
+  "title": "Something for Halloween",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "cocoloba-772413",
+  "author": "cocoloba_",
+  "author_url": "https://x.com/cocoloba_",
+  "post_url": "https://x.com/cocoloba_/status/2106029181607772413",
+  "title": "The Colosseum in 44,754 3D parts",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "mszzz0011-853642",
+  "author": "mszzz0011",
+  "author_url": "https://x.com/mszzz0011",
+  "post_url": "https://x.com/mszzz0011/status/2106025576972853642",
+  "title": "A one-shot animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "iancarscadden-789360",
+  "author": "iancarscadden",
+  "author_url": "https://x.com/iancarscadden",
+  "post_url": "https://x.com/iancarscadden/status/2106018048792789360",
+  "title": "A non-template UI animation sequence",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "xodud-rkd-950161",
+  "author": "xodud_rkd",
+  "author_url": "https://x.com/xodud_rkd",
+  "post_url": "https://x.com/xodud_rkd/status/2106008546248950161",
+  "title": "Motion and beats from Fable 5.5 Max",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "eviljoker88-005816",
+  "author": "eviljoker88",
+  "author_url": "https://x.com/eviljoker88",
+  "post_url": "https://x.com/eviljoker88/status/2106003621402005816",
+  "title": "SCP-8517, animated",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "l-mejiac-360673",
+  "author": "l_mejiaC",
+  "author_url": "https://x.com/l_mejiaC",
+  "post_url": "https://x.com/l_mejiaC/status/2105988529671360673",
+  "title": "The universe looks at itself",
+  "category": "long-form",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "maciejkrupowies-321785",
+  "author": "maciejkrupowies",
+  "author_url": "https://x.com/maciejkrupowies",
+  "post_url": "https://x.com/maciejkrupowies/status/2105914965387321785",
+  "title": "Duke Decibel, a retro boss fight",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "robiw-dev-476225",
+  "author": "RobIW_dev",
+  "author_url": "https://x.com/RobIW_dev",
+  "post_url": "https://x.com/RobIW_dev/status/2105894547796476225",
+  "title": "Paracortex Terminal update film",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "I'd like a motion design video to present on X for our update to paracortex terminal and pi 1.0\n25 seconds should do and I'm giving you free range for what it shows, how it shows it and what to highlight and what to merely mention\nmake it lively",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "scrappy-4-661167",
+  "author": "Scrappy__4",
+  "author_url": "https://x.com/Scrappy__4",
+  "post_url": "https://x.com/Scrappy__4/status/2105866966988661167",
+  "title": "A playable 15-second animation in pure JS",
+  "category": "motion",
+  "tech_tags": [
+   "playable",
+   "canvas"
+  ],
+  "prompt": "Create a cool 15s playable animation with pure js",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "scrappy-4-560379",
+  "author": "Scrappy__4",
+  "author_url": "https://x.com/Scrappy__4",
+  "post_url": "https://x.com/Scrappy__4/status/2105844734409560379",
+  "title": "A lava lamp test",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-084841",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2105831117677084841",
+  "title": "Dig Dug, rebuilt in one HTML file",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Recreate the hit arcade game Dig Dug 1:1 as it is in the arcade. Make it as exact as possible. Implement as many features as possible (from music to visuals to EVERYTHING) Use anything and everything to make this game as similar and good as possible. Create it in an HTML file.",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "l-mejiac-850793",
+  "author": "l_mejiaC",
+  "author_url": "https://x.com/l_mejiaC",
+  "post_url": "https://x.com/l_mejiaC/status/2105801379956850793",
+  "title": "Humanity walks: 30,000 years of art",
+  "category": "explainer",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "tonytonggg-754036",
+  "author": "tonytonggg",
+  "author_url": "https://x.com/tonytonggg",
+  "post_url": "https://x.com/tonytonggg/status/2104424144498754036",
+  "title": "A 2,000-follower celebration",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
  }
 ]
