@@ -938,7 +938,11 @@
   ],
   "prompt": "Write a beautiful symphony\n\nrecord a video of it when you're done.",
   "prompt_partial": false,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 37701,
+   "captured_at": "2026-10-13"
+  }
  },
  {
   "slug": "imjustnewatai-345211",
@@ -1023,7 +1027,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 290869,
+   "captured_at": "2026-10-13"
+  }
  },
  {
   "slug": "aisuperdomain-318838",
@@ -1107,7 +1115,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 26155,
+   "captured_at": "2026-10-13"
+  }
  },
  {
   "slug": "imjustnewatai-945180",
@@ -1728,5 +1740,294 @@
   "prompt": "",
   "prompt_partial": true,
   "added": "2026-10-13"
+ },
+ {
+  "slug": "mozetech-983710",
+  "author": "MozeTech",
+  "author_url": "https://x.com/MozeTech",
+  "post_url": "https://x.com/MozeTech/status/2106590326634983710",
+  "title": "I just merged two of the highest grossing games ($5 billion+) in history using…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 1725611,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "anshuc-075488",
+  "author": "anshuc",
+  "author_url": "https://x.com/anshuc",
+  "post_url": "https://x.com/anshuc/status/2107180724399075488",
+  "title": "Finally got Fable 5.5 access, so I made a game based on the worst pun I could t…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 774871,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "chetaslua-275680",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2109244702235275680",
+  "title": "🚨 Claude Opus 5.5 is routing to a new model &lt; this can be fable 5.5 or new o…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 255295,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "vib3coded-489436",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2109205399513489436",
+  "title": "Opus made my favorite jelly slice - for almost a third of the price 🍉🤯",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 234768,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "superalesha-109624",
+  "author": "superalesha",
+  "author_url": "https://x.com/superalesha",
+  "post_url": "https://x.com/superalesha/status/2109192419145109624",
+  "title": "dario dropping fable 5.5",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 189739,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "vib3coded-016076",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2109424502237016076",
+  "title": "Jelly King: Opus 5.5 Mogged Astra, Fable and Sonnet",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 133042,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "oalanicolas-936679",
+  "author": "oalanicolas",
+  "author_url": "https://x.com/oalanicolas",
+  "post_url": "https://x.com/oalanicolas/status/2107803303832936679",
+  "title": "Criei um GTA6 com Fable 5.5 + Opus 5.5 antes da Rockstar lançar o dela sem quer…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 84194,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "m-ferreira28-788429",
+  "author": "m_ferreira28",
+  "author_url": "https://x.com/m_ferreira28",
+  "post_url": "https://x.com/m_ferreira28/status/2107218218955788429",
+  "title": "FABLE 5.5 IS INSANE",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 66479,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "blueemi99-664708",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2106755903223664708",
+  "title": "Fable 5.5 made this oil painting and the timelapse",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 65548,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "testingcatalog-377583",
+  "author": "testingcatalog",
+  "author_url": "https://x.com/testingcatalog",
+  "post_url": "https://x.com/testingcatalog/status/2109633920568377583",
+  "title": "ANTHROPIC 🔥: Claude Opus 5.5 is reportedly routed to a different model with muc…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 61030,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "justin-lords-345660",
+  "author": "Justin_lords",
+  "author_url": "https://x.com/Justin_lords",
+  "post_url": "https://x.com/Justin_lords/status/2106610341694345660",
+  "title": "How to create animation videos with GPT-Astra 6",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 59857,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "dr-cintas-559974",
+  "author": "dr_cintas",
+  "author_url": "https://x.com/dr_cintas",
+  "post_url": "https://x.com/dr_cintas/status/2107939634705559974",
+  "title": "This workflow will save you thousands with Claude.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 56036,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "andrewonxyz-544435",
+  "author": "AndrewOnXYZ",
+  "author_url": "https://x.com/AndrewOnXYZ",
+  "post_url": "https://x.com/AndrewOnXYZ/status/2107262468502544435",
+  "title": "Fable 5.5… wow! Asked it to make a classic stick fight, it got the animation so…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 46253,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "karanc-12-311765",
+  "author": "karanC_12",
+  "author_url": "https://x.com/karanC_12",
+  "post_url": "https://x.com/karanC_12/status/2109248100892311765",
+  "title": "🚨 WAIT… Claude Opus 5.5 is now routing to another model.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 43523,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "spakhm-738228",
+  "author": "spakhm",
+  "author_url": "https://x.com/spakhm",
+  "post_url": "https://x.com/spakhm/status/2107523510079738228",
+  "title": "I asked AI agents to defuse a bomb by collaborating over an ultra-low bandwidth…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 37457,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "notjazii-933951",
+  "author": "notjazii",
+  "author_url": "https://x.com/notjazii",
+  "post_url": "https://x.com/notjazii/status/2109283855282933951",
+  "title": "anthropic is testing a new model",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 28646,
+   "captured_at": "2026-10-13"
+  }
  }
 ]
