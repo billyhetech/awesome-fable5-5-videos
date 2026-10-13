@@ -2029,5 +2029,42 @@
    "views": 28646,
    "captured_at": "2026-10-13"
   }
+ },
+ {
+  "slug": "ann-nnng-711057",
+  "author": "ann_nnng",
+  "author_url": "https://x.com/ann_nnng",
+  "post_url": "https://x.com/ann_nnng/status/2109853948647711057",
+  "title": "holo CD effect by Muse Wonder, GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 29986,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "artificialanlys-885209",
+  "author": "ArtificialAnlys",
+  "author_url": "https://x.com/ArtificialAnlys",
+  "post_url": "https://x.com/ArtificialAnlys/status/2109791341802885209",
+  "title": "We have measured intelligence. Now it's time to see it.",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 28279,
+   "captured_at": "2026-10-13"
+  }
  }
 ]
