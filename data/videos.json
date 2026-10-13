@@ -2066,5 +2066,25 @@
    "views": 28279,
    "captured_at": "2026-10-13"
   }
+ },
+ {
+  "slug": "chrisgpt-649086",
+  "author": "ChrisGPT",
+  "author_url": "https://x.com/ChrisGPT",
+  "post_url": "https://x.com/ChrisGPT/status/2109570757579649086",
+  "title": "Me and just asked Fable 5.5 to create a song introducing itself, and it made a…",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "elevenlabs",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 25485,
+   "captured_at": "2026-10-13"
+  }
  }
 ]
