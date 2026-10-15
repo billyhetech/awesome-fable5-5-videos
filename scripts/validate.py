@@ -20,6 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "videos.json"
 PROMPTS = ROOT / "prompts"
 
+MODELS = {"fable-5.5"}
 CATEGORIES = {"motion", "explainer", "3d-scenes", "games-interactive", "long-form", "music-videos"}
 TAGS = {
     "canvas", "svg", "threejs", "glsl", "gsap", "css", "webgl", "web-audio",
@@ -52,9 +53,12 @@ def check_entry(v, errors, seen_slugs, seen_seo_slugs=None):
         seen_seo_slugs.add(seo)
 
     # --- required scalar fields ---
-    for field in ("slug", "author", "author_url", "post_url", "title", "category", "added"):
+    for field in ("slug", "model", "author", "author_url", "post_url", "title", "category", "added"):
         if not isinstance(v.get(field), str) or not v[field].strip():
             err(errors, slug, f"missing or empty required field: {field}")
+
+    if v.get("model") not in MODELS:
+        err(errors, slug, f"unknown model: {v.get('model')} (this list covers Fable 5.5 only; other models go to the multi-model list)")
 
     if slug in seen_slugs:
         err(errors, slug, "duplicate slug")

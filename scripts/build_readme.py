@@ -17,6 +17,13 @@ DATA = ROOT / "data" / "videos.json"
 
 REPO_URL = "https://github.com/billyhetech/awesome-fable5-5-videos"
 SUBMIT_URL = REPO_URL + "/issues/new?template=submit-video.yml"
+HERO_URL = "https://github.com/billyhetech/awesome-viral-ai-videos"
+
+# Display label per model id (this list is Fable-only, but prompt files are
+# generated with the shared multi-model tooling).
+MODEL_LABELS = {
+    "fable-5.5": "Fable 5.5",
+}
 
 # (slug, English display name, Chinese display name) — order is the README order.
 CATEGORIES = [
@@ -87,6 +94,7 @@ STRINGS = {
             "handled within 72 hours, no questions asked. See [CREDITS.md](CREDITS.md)."
         ),
         "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
+        "hero_line": "📦 Every model in one list: [Awesome Viral AI Videos]({hero_url})",
     },
     "zh": {
         "intro": (
@@ -120,6 +128,7 @@ STRINGS = {
             "详见 [CREDITS.md](CREDITS.md)。"
         ),
         "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
+        "hero_line": "📦 全模型总集:[Awesome Viral AI Videos]({hero_url})",
     },
 }
 
@@ -211,6 +220,8 @@ def build(lang):
         "# Awesome Fable 5.5 Videos",
         "",
         s["lang_switch"],
+        "",
+        s["hero_line"].format(hero_url=HERO_URL),
         "",
         s["intro"],
         "",
