@@ -4,6 +4,7 @@
 Rules enforced:
 - every entry has the required fields with the right types
 - slug is unique, matches {author-slug}-{6 digits}, and has prompts/<slug>.md
+- seo_slug (the clawshelf.com URL) is unique, 2-10 lowercase ascii words, <= 60 chars
 - category and tech_tags come from the known vocabularies
 - if prompt text is present, prompt_partial flags whether it's the full prompt
 - if a thumbnail is present, the file must exist
@@ -27,6 +28,8 @@ TAGS = {
 }
 
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*-\d{6}$")
+# URL slug on clawshelf.com: 2-10 lowercase ascii words, <= 60 chars, unique, never changed once published
+SEO_SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+){1,9}$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 URL_RE = re.compile(r"^https://")
 
@@ -35,8 +38,18 @@ def err(errors, slug, msg):
     errors.append(f"[{slug}] {msg}")
 
 
-def check_entry(v, errors, seen_slugs):
+def check_entry(v, errors, seen_slugs, seen_seo_slugs=None):
     slug = v.get("slug", "<missing slug>")
+    seen_seo_slugs = set() if seen_seo_slugs is None else seen_seo_slugs
+
+    # --- SEO slug (public URL) ---
+    seo = v.get("seo_slug")
+    if not isinstance(seo, str) or not SEO_SLUG_RE.match(seo) or len(seo) > 60:
+        err(errors, slug, "seo_slug must be 2-10 lowercase ascii words joined by '-', max 60 chars")
+    elif seo in seen_seo_slugs:
+        err(errors, slug, f"duplicate seo_slug: {seo}")
+    else:
+        seen_seo_slugs.add(seo)
 
     # --- required scalar fields ---
     for field in ("slug", "author", "author_url", "post_url", "title", "category", "added"):
@@ -113,9 +126,10 @@ def main():
         sys.exit(1)
 
     seen = set()
+    seen_seo = set()
     for v in data:
         if isinstance(v, dict):
-            check_entry(v, errors, seen)
+            check_entry(v, errors, seen, seen_seo)
         else:
             errors.append("every entry must be an object")
 
