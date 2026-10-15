@@ -2401,6 +2401,17 @@
   "stats_snapshot": {
    "views": 69171,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/campbellkaleb23-259487/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/campbellkaleb23-259487/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/campbellkaleb23-259487/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25123,
+   "bytes": 6068387,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2421,6 +2432,17 @@
   "stats_snapshot": {
    "views": 60424,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-193174/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-193174/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-193174/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 302000,
+   "bytes": 45244721,
+   "synced_at": "2026-10-15"
   }
  },
  {
