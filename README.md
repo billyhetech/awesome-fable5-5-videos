@@ -9,6 +9,8 @@ Viral videos made with **Fable 5.5** — animations, games, 3D scenes and long-f
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
+Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos)
+
 **11 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
 
 - Latest update (2026-10-15): 133 videos total
