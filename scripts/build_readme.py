@@ -18,6 +18,7 @@ DATA = ROOT / "data" / "videos.json"
 REPO_URL = "https://github.com/billyhetech/awesome-fable5-5-videos"
 SUBMIT_URL = REPO_URL + "/issues/new?template=submit-video.yml"
 HERO_URL = "https://github.com/billyhetech/awesome-viral-ai-videos"
+CLAWSHELF_URL = "https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"
 
 # Display label per model id (this list is Fable-only, but prompt files are
 # generated with the shared multi-model tooling).
@@ -95,6 +96,7 @@ STRINGS = {
         ),
         "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
         "hero_line": "📦 Every model in one list: [Awesome Viral AI Videos]({hero_url})",
+        "shelf_line": "💎 Browse and play every video on [clawshelf.com]({shelf_url})",
     },
     "zh": {
         "intro": (
@@ -129,6 +131,7 @@ STRINGS = {
         ),
         "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
         "hero_line": "📦 全模型总集:[Awesome Viral AI Videos]({hero_url})",
+        "shelf_line": "💎 在 [clawshelf.com]({shelf_url}) 上浏览和播放全部视频",
     },
 }
 
@@ -222,6 +225,8 @@ def build(lang):
         s["lang_switch"],
         "",
         s["hero_line"].format(hero_url=HERO_URL),
+        "",
+        s["shelf_line"].format(shelf_url=CLAWSHELF_URL),
         "",
         s["intro"],
         "",
