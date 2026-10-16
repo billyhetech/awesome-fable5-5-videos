@@ -1652,6 +1652,10 @@
    "bytes": 5869429,
    "synced_at": "2026-10-15",
    "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/beyondwudan-957122/preview.webp"
+  },
+  "stats_snapshot": {
+   "views": 5660,
+   "captured_at": "2026-10-16"
   }
  },
  {
@@ -4013,6 +4017,27 @@
    "bytes": 10148375,
    "synced_at": "2026-10-15",
    "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-453187/preview.webp"
+  }
+ },
+ {
+  "slug": "badboyfoxy-500260",
+  "seo_slug": "paradise-island-3d-scene",
+  "model": "fable-5.5",
+  "author": "badboyfoxy",
+  "author_url": "https://x.com/badboyfoxy",
+  "post_url": "https://x.com/badboyfoxy/status/2109523901105500260",
+  "title": "Paradise island 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender",
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-16",
+  "stats_snapshot": {
+   "views": 8877,
+   "captured_at": "2026-10-16"
   }
  }
 ]
