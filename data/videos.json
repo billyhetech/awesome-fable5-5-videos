@@ -4147,5 +4147,65 @@
    "bytes": 11529385,
    "synced_at": "2026-10-17"
   }
+ },
+ {
+  "slug": "ziwenxu-357651",
+  "seo_slug": "first-ever-claude-anime-out",
+  "model": "fable-5.5",
+  "author": "ziwenxu_",
+  "author_url": "https://x.com/ziwenxu_",
+  "post_url": "https://x.com/ziwenxu_/status/2111212505947357651",
+  "title": "The first ever CLAUDE MADE ANIME is out!!",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 157058,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "chetaslua-092371",
+  "seo_slug": "3d-animation-blender-python",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2110808933074092371",
+  "title": "3D animation built in Blender via Python",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 50117,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "imjustnewatai-190526",
+  "seo_slug": "anthropic-next-week-when-they-release",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2111369364335190526",
+  "title": "Anthropic next week when they release fable 5.5 and absolutely crush OpenAI",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 19942,
+   "captured_at": "2026-10-17"
+  }
  }
 ]
