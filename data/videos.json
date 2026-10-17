@@ -4166,6 +4166,18 @@
   "stats_snapshot": {
    "views": 157058,
    "captured_at": "2026-10-17"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ziwenxu-357651/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ziwenxu-357651/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ziwenxu-357651/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ziwenxu-357651/poster.jpg",
+   "width": 640,
+   "height": 360,
+   "duration_ms": 1543195,
+   "bytes": 83530103,
+   "synced_at": "2026-10-17"
   }
  },
  {
@@ -4186,6 +4198,18 @@
   "stats_snapshot": {
    "views": 50117,
    "captured_at": "2026-10-17"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-092371/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-092371/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-092371/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-092371/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 102000,
+   "bytes": 14130997,
+   "synced_at": "2026-10-17"
   }
  },
  {
@@ -4206,6 +4230,18 @@
   "stats_snapshot": {
    "views": 19942,
    "captured_at": "2026-10-17"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-190526/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-190526/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-190526/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-190526/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25123,
+   "bytes": 6067947,
+   "synced_at": "2026-10-17"
   }
  }
 ]
