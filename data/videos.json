@@ -4339,5 +4339,85 @@
    "bytes": 1853359,
    "synced_at": "2026-10-18"
   }
+ },
+ {
+  "slug": "mr-salio-470950",
+  "seo_slug": "one-shot-coded-york-cinematic-scene",
+  "model": "fable-5.5",
+  "author": "Mr_Salio",
+  "author_url": "https://x.com/Mr_Salio",
+  "post_url": "https://x.com/Mr_Salio/status/2111097153074470950",
+  "title": "One-shot coded New York cinematic scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 86981,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "dummerspast39-152967",
+  "seo_slug": "fable-5-5-minecraft-single-html",
+  "model": "fable-5.5",
+  "author": "dummerspast39",
+  "author_url": "https://x.com/dummerspast39",
+  "post_url": "https://x.com/dummerspast39/status/2111464346010152967",
+  "title": "Fable 5.5: Minecraft in a single HTML",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 24264,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "chetaslua-399635",
+  "seo_slug": "animated-scene-synced-music-sound-effects",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2111087834329399635",
+  "title": "Animated scene with synced music and sound effects",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 17973,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "devteamdrew-110075",
+  "seo_slug": "animated-visual-piece",
+  "model": "fable-5.5",
+  "author": "devteamdrew",
+  "author_url": "https://x.com/devteamdrew",
+  "post_url": "https://x.com/devteamdrew/status/2110156508097110075",
+  "title": "Animated visual piece",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 10088,
+   "captured_at": "2026-10-18"
+  }
  }
 ]
