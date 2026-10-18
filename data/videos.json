@@ -4358,6 +4358,18 @@
   "stats_snapshot": {
    "views": 86981,
    "captured_at": "2026-10-18"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mr-salio-470950/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mr-salio-470950/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mr-salio-470950/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mr-salio-470950/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 39381,
+   "bytes": 4698384,
+   "synced_at": "2026-10-18"
   }
  },
  {
@@ -4378,6 +4390,18 @@
   "stats_snapshot": {
    "views": 24264,
    "captured_at": "2026-10-18"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-152967/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-152967/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-152967/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-152967/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 165000,
+   "bytes": 29317459,
+   "synced_at": "2026-10-18"
   }
  },
  {
@@ -4398,6 +4422,18 @@
   "stats_snapshot": {
    "views": 17973,
    "captured_at": "2026-10-18"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-399635/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-399635/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-399635/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-399635/poster.jpg",
+   "width": 1322,
+   "height": 720,
+   "duration_ms": 32431,
+   "bytes": 9432298,
+   "synced_at": "2026-10-18"
   }
  },
  {
@@ -4418,6 +4454,18 @@
   "stats_snapshot": {
    "views": 10088,
    "captured_at": "2026-10-18"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-110075/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-110075/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-110075/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-110075/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 65000,
+   "bytes": 11896448,
+   "synced_at": "2026-10-18"
   }
  }
 ]
