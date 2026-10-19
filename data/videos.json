@@ -4595,5 +4595,85 @@
    "bytes": 2088602,
    "synced_at": "2026-10-19"
   }
+ },
+ {
+  "slug": "mr-salio-154433",
+  "seo_slug": "spider-man-cinematic-scene-code",
+  "model": "fable-5.5",
+  "author": "Mr_Salio",
+  "author_url": "https://x.com/Mr_Salio",
+  "post_url": "https://x.com/Mr_Salio/status/2111590674961154433",
+  "title": "Spider-Man cinematic scene built in code",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 58771,
+   "captured_at": "2026-10-19"
+  }
+ },
+ {
+  "slug": "pankajkumar-dev-814233",
+  "seo_slug": "boat-floating-garden-scene",
+  "model": "fable-5.5",
+  "author": "pankajkumar_dev",
+  "author_url": "https://x.com/pankajkumar_dev",
+  "post_url": "https://x.com/pankajkumar_dev/status/2111518872272814233",
+  "title": "Boat floating in a garden scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 17331,
+   "captured_at": "2026-10-19"
+  }
+ },
+ {
+  "slug": "mozetech-026593",
+  "seo_slug": "zelda-pokemon-crossover-game",
+  "model": "fable-5.5",
+  "author": "MozeTech",
+  "author_url": "https://x.com/MozeTech",
+  "post_url": "https://x.com/MozeTech/status/2111652513846026593",
+  "title": "Zelda Pokemon crossover game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 10918,
+   "captured_at": "2026-10-19"
+  }
+ },
+ {
+  "slug": "dummerspast39-503923",
+  "seo_slug": "pelican-riding-bike-animation",
+  "model": "fable-5.5",
+  "author": "dummerspast39",
+  "author_url": "https://x.com/dummerspast39",
+  "post_url": "https://x.com/dummerspast39/status/2111391206848503923",
+  "title": "Pelican riding a bike animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 9779,
+   "captured_at": "2026-10-19"
+  }
  }
 ]

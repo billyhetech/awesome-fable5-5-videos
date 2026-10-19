@@ -7,7 +7,7 @@
 
 Viral videos made with **Fable 5.5** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 151 videos on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos)**
+**[▶ Watch all 155 videos on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,15 +15,15 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 **12 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-19): 151 videos total
+- Latest update (2026-10-19): 155 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (87)
+- [Motion graphics](#motion-graphics) (88)
 - [Explainers](#explainers) (7)
-- [3D scenes](#3d-scenes) (20)
-- [Games & interactive](#games--interactive) (19)
+- [3D scenes](#3d-scenes) (22)
+- [Games & interactive](#games--interactive) (20)
 - [Long-form](#long-form) (16)
 - [Music videos](#music-videos) (2)
 - [Latest videos](#latest-videos)
@@ -37,7 +37,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/jelly-king-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-016076/preview.webp" alt="Fable 5.5 video by @vib3coded" width="100%"></a><br><a href="https://x.com/vib3coded/status/2109424502237016076"><b>@vib3coded</b></a> · <a href="prompts/vib3coded-016076.md">Details</a><br><sub>Canvas · 133K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/renmu2017-541523/preview.webp" alt="Fable 5.5 video by @renmu2017" width="100%"></a><br><a href="https://x.com/renmu2017/status/2111658365382541523"><b>@renmu2017</b></a> · <a href="prompts/renmu2017-541523.md">Prompt</a><br><sub>Canvas · 96K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/day-in-the-life-of-claude-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-419727/preview.webp" alt="Fable 5.5 video by @ishuagra02" width="100%"></a><br><a href="https://x.com/ishuagra02/status/2106045364868419727"><b>@ishuagra02</b></a> · <a href="prompts/ishuagra02-419727.md">Details</a><br><sub>Canvas · 85K views</sub></td></tr>
 </table>
 
-[▶ See all 87 on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=motion)
+[▶ See all 88 on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=motion)
 
 ## Explainers
 
@@ -56,7 +56,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/anthropic-new-model-3d-test?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-933951/preview.webp" alt="Fable 5.5 video by @notjazii" width="100%"></a><br><a href="https://x.com/notjazii/status/2109283855282933951"><b>@notjazii</b></a> · <a href="prompts/notjazii-933951.md">Details</a><br><sub>Three.js · Blender · 29K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/ai-model-introduction-song-3d?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/chrisgpt-649086/preview.webp" alt="Fable 5.5 video by @ChrisGPT" width="100%"></a><br><a href="https://x.com/ChrisGPT/status/2109570757579649086"><b>@ChrisGPT</b></a> · <a href="prompts/chrisgpt-649086.md">Details</a><br><sub>Three.js · ElevenLabs · Web Audio · 25K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/animated-scene-synced-music-sound-effects?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-399635/preview.webp" alt="Fable 5.5 video by @chetaslua" width="100%"></a><br><a href="https://x.com/chetaslua/status/2111087834329399635"><b>@chetaslua</b></a> · <a href="prompts/chetaslua-399635.md">Details</a><br><sub>Blender · 18K views</sub></td></tr>
 </table>
 
-[▶ See all 20 on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=3d-scenes)
+[▶ See all 22 on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=3d-scenes)
 
 ## Games & interactive
 
@@ -67,7 +67,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/artificial-analysis-intelligence-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/artificialanlys-885209/preview.webp" alt="Fable 5.5 video by @ArtificialAnlys" width="100%"></a><br><a href="https://x.com/ArtificialAnlys/status/2109791341802885209"><b>@ArtificialAnlys</b></a> · <a href="prompts/artificialanlys-885209.md">Details</a><br><sub>Three.js · Blender · 28K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-minecraft-single-html?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-152967/preview.webp" alt="Fable 5.5 video by @dummerspast39" width="100%"></a><br><a href="https://x.com/dummerspast39/status/2111464346010152967"><b>@dummerspast39</b></a> · <a href="prompts/dummerspast39-152967.md">Details</a><br><sub>Canvas · 24K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/21-world-boss-battle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/emostaque-091943/preview.webp" alt="Fable 5.5 video by @EMostaque" width="100%"></a><br><a href="https://x.com/EMostaque/status/2106065029850091943"><b>@EMostaque</b></a> · <a href="prompts/emostaque-091943.md">Details</a><br><sub>Canvas · 17K views</sub></td></tr>
 </table>
 
-[▶ See all 19 on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=games-interactive)
+[▶ See all 20 on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=games-interactive)
 
 ## Long-form
 
@@ -89,9 +89,13 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 ## Latest videos
 
 - [Fable 5.5 这个动画最牛逼之处](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@renmu2017](https://x.com/renmu2017/status/2111658365382541523) · [Prompt](prompts/renmu2017-541523.md)
+- [Spider-Man cinematic scene built in code](https://clawshelf.com/ai-videos/fable-5-5/spider-man-cinematic-scene-code?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@Mr_Salio](https://x.com/Mr_Salio/status/2111590674961154433) · [Details](prompts/mr-salio-154433.md)
 - [Here's a first look at the new Cutefish desktop, rebuilt from scratch and fully…](https://clawshelf.com/ai-videos/fable-5-5/heres-first-look-cutefish-desktop-rebuilt?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@cutefishos](https://x.com/cutefishos/status/2111800377125556549) · [Details](prompts/cutefishos-556549.md)
 - [Fable 5.5 and every model comings after it is so good they plan on making peopl…](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-every-model-comings-after?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@badboyfoxy](https://x.com/badboyfoxy/status/2111893133206409709) · [Details](prompts/badboyfoxy-409709.md)
 - [fable 5.5 seeing everything it has to fix in my codebase](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-seeing-everything-has-fix?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@alxfazio](https://x.com/alxfazio/status/2111832232323351001) · [Details](prompts/alxfazio-351001.md)
+- [Boat floating in a garden scene](https://clawshelf.com/ai-videos/fable-5-5/boat-floating-garden-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@pankajkumar_dev](https://x.com/pankajkumar_dev/status/2111518872272814233) · [Details](prompts/pankajkumar-dev-814233.md)
+- [Zelda Pokemon crossover game](https://clawshelf.com/ai-videos/fable-5-5/zelda-pokemon-crossover-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@MozeTech](https://x.com/MozeTech/status/2111652513846026593) · [Details](prompts/mozetech-026593.md)
+- [Pelican riding a bike animation](https://clawshelf.com/ai-videos/fable-5-5/pelican-riding-bike-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@dummerspast39](https://x.com/dummerspast39/status/2111391206848503923) · [Details](prompts/dummerspast39-503923.md)
 - [Fable 5.5 Supremacy](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-supremacy?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@chetaslua](https://x.com/chetaslua/status/2111458379386523724) · [Details](prompts/chetaslua-523724.md)
 - [One-shot coded New York cinematic scene](https://clawshelf.com/ai-videos/fable-5-5/one-shot-coded-york-cinematic-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@Mr_Salio](https://x.com/Mr_Salio/status/2111097153074470950) · [Details](prompts/mr-salio-470950.md)
 - [Fable 5.5: svg of bike riding a pelican](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-svg-bike-riding-pelican?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@dummerspast39](https://x.com/dummerspast39/status/2111519245733654775) · [Details](prompts/dummerspast39-654775.md)
@@ -114,10 +118,6 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 - [I just merged two of the highest grossing games ($5 billion+) in history using…](https://clawshelf.com/ai-videos/fable-5-5/minecraft-pokemon-mashup-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@MozeTech](https://x.com/MozeTech/status/2106590326634983710) · [Details](prompts/mozetech-983710.md)
 - [Finally got Fable 5.5 access, so I made a game based on the worst pun I could t…](https://clawshelf.com/ai-videos/fable-5-5/worst-pun-browser-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@anshuc](https://x.com/anshuc/status/2107180724399075488) · [Details](prompts/anshuc-075488.md)
 - [A Blender animation starring the dots mascots](https://clawshelf.com/ai-videos/fable-5-5/dots-mascots-blender-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@JaydenDavisNC](https://x.com/JaydenDavisNC/status/2107086714820870617) · [Details](prompts/jaydendavisnc-870617.md)
-- [🚨 Claude Opus 5.5 is routing to a new model &lt; this can be fable 5.5 or new o…](https://clawshelf.com/ai-videos/fable-5-5/claude-opus-model-routing-rumor?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@chetaslua](https://x.com/chetaslua/status/2109244702235275680) · [Details](prompts/chetaslua-275680.md)
-- [Opus made my favorite jelly slice - for almost a third of the price 🍉🤯](https://clawshelf.com/ai-videos/fable-5-5/jelly-watermelon-slice-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@vib3coded](https://x.com/vib3coded/status/2109205399513489436) · [Details](prompts/vib3coded-489436.md)
-- [dario dropping fable 5.5](https://clawshelf.com/ai-videos/fable-5-5/dario-dropping-fable-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@superalesha](https://x.com/superalesha/status/2109192419145109624) · [Details](prompts/superalesha-109624.md)
-- [Jelly King: Opus 5.5 Mogged Astra, Fable and Sonnet](https://clawshelf.com/ai-videos/fable-5-5/jelly-king-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@vib3coded](https://x.com/vib3coded/status/2109424502237016076) · [Details](prompts/vib3coded-016076.md)
 
 ## How to use a prompt
 
