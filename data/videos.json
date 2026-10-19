@@ -4614,6 +4614,18 @@
   "stats_snapshot": {
    "views": 58771,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mr-salio-154433/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mr-salio-154433/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mr-salio-154433/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mr-salio-154433/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 62000,
+   "bytes": 9931208,
+   "synced_at": "2026-10-19"
   }
  },
  {
@@ -4634,6 +4646,18 @@
   "stats_snapshot": {
    "views": 17331,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/pankajkumar-dev-814233/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/pankajkumar-dev-814233/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/pankajkumar-dev-814233/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/pankajkumar-dev-814233/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 57200,
+   "bytes": 11496855,
+   "synced_at": "2026-10-19"
   }
  },
  {
@@ -4654,6 +4678,18 @@
   "stats_snapshot": {
    "views": 10918,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mozetech-026593/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mozetech-026593/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mozetech-026593/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mozetech-026593/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 55018,
+   "bytes": 8950818,
+   "synced_at": "2026-10-19"
   }
  },
  {
@@ -4674,6 +4710,18 @@
   "stats_snapshot": {
    "views": 9779,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-503923/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-503923/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-503923/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-503923/poster.jpg",
+   "width": 1152,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 5763356,
+   "synced_at": "2026-10-19"
   }
  }
 ]
