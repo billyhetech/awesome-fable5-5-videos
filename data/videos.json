@@ -4723,5 +4723,105 @@
    "bytes": 5763356,
    "synced_at": "2026-10-19"
   }
+ },
+ {
+  "slug": "sounddobad-369270",
+  "seo_slug": "fable-5-5-auditing-codebase-let-astra",
+  "model": "fable-5.5",
+  "author": "SoundDobad",
+  "author_url": "https://x.com/SoundDobad",
+  "post_url": "https://x.com/SoundDobad/status/2112253485404369270",
+  "title": "Fable 5.5 auditing the codebase I let Astra maintain",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-20",
+  "stats_snapshot": {
+   "views": 107366,
+   "captured_at": "2026-10-20"
+  }
+ },
+ {
+  "slug": "dummerspast39-446639",
+  "seo_slug": "fable-5-5-dyson-fragment-single-html",
+  "model": "fable-5.5",
+  "author": "dummerspast39",
+  "author_url": "https://x.com/dummerspast39",
+  "post_url": "https://x.com/dummerspast39/status/2112275947634446639",
+  "title": "fable 5.5 - Dyson Fragment, single html, 1.5h",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-20",
+  "stats_snapshot": {
+   "views": 86990,
+   "captured_at": "2026-10-20"
+  }
+ },
+ {
+  "slug": "chetaslua-638879",
+  "seo_slug": "ive-repeated-multiple-times-fable-update",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2112454035592638879",
+  "title": "I’ve repeated multiple times that the new Fable update has some unique understa…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-20",
+  "stats_snapshot": {
+   "views": 41732,
+   "captured_at": "2026-10-20"
+  }
+ },
+ {
+  "slug": "mr-salio-541641",
+  "seo_slug": "recursive-controller-bicycle-pelican-svg",
+  "model": "fable-5.5",
+  "author": "Mr_Salio",
+  "author_url": "https://x.com/Mr_Salio",
+  "post_url": "https://x.com/Mr_Salio/status/2111816222811541641",
+  "title": "Recursive controller, bicycle and pelican SVG",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-20",
+  "stats_snapshot": {
+   "views": 23577,
+   "captured_at": "2026-10-20"
+  }
+ },
+ {
+  "slug": "dummerspast39-930535",
+  "seo_slug": "voxel-propaganda-animation",
+  "model": "fable-5.5",
+  "author": "dummerspast39",
+  "author_url": "https://x.com/dummerspast39",
+  "post_url": "https://x.com/dummerspast39/status/2111957286620930535",
+  "title": "Voxel propaganda animation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-20",
+  "stats_snapshot": {
+   "views": 6952,
+   "captured_at": "2026-10-20"
+  }
  }
 ]
