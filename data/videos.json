@@ -4947,5 +4947,25 @@
    "bytes": 15828001,
    "synced_at": "2026-10-21"
   }
+ },
+ {
+  "slug": "pankajkumar-dev-626840",
+  "seo_slug": "last-train-home-rainy-japanese-night",
+  "model": "fable-5.5",
+  "author": "pankajkumar_dev",
+  "author_url": "https://x.com/pankajkumar_dev",
+  "post_url": "https://x.com/pankajkumar_dev/status/2112176644018626840",
+  "title": "The Last Train Home rainy Japanese night scene",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-21",
+  "stats_snapshot": {
+   "views": 12804,
+   "captured_at": "2026-10-21"
+  }
  }
 ]
