@@ -4966,6 +4966,18 @@
   "stats_snapshot": {
    "views": 12804,
    "captured_at": "2026-10-21"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/pankajkumar-dev-626840/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/pankajkumar-dev-626840/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/pankajkumar-dev-626840/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/pankajkumar-dev-626840/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 56075,
+   "bytes": 5503422,
+   "synced_at": "2026-10-21"
   }
  }
 ]
