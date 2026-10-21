@@ -7,7 +7,7 @@
 
 用 **Fable 5.5**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 160 条视频](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos)**
+**[▶ 在 clawshelf.com 观看全部 162 条视频](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **12 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-20):共 160 条
+- 最近更新(2026-10-21):共 162 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (91)
+- [动态图形](#动态图形) (93)
 - [讲解动画](#讲解动画) (7)
 - [3D 场景](#3d-场景) (24)
 - [游戏与交互](#游戏与交互) (20)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/jelly-king-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-016076/preview.webp" alt="Fable 5.5 video by @vib3coded" width="100%"></a><br><a href="https://x.com/vib3coded/status/2109424502237016076"><b>@vib3coded</b></a> · <a href="prompts/vib3coded-016076.md">详情</a><br><sub>Canvas · 133K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-auditing-codebase-let-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/sounddobad-369270/preview.webp" alt="Fable 5.5 video by @SoundDobad" width="100%"></a><br><a href="https://x.com/SoundDobad/status/2112253485404369270"><b>@SoundDobad</b></a> · <a href="prompts/sounddobad-369270.md">详情</a><br><sub>Canvas · 107K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/renmu2017-541523/preview.webp" alt="Fable 5.5 video by @renmu2017" width="100%"></a><br><a href="https://x.com/renmu2017/status/2111658365382541523"><b>@renmu2017</b></a> · <a href="prompts/renmu2017-541523.md">提示词</a><br><sub>Canvas · 96K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 91 条](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 93 条](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=motion)
 
 ## 讲解动画
 
@@ -88,6 +88,8 @@
 
 ## 最新收录
 
+- [It is finally time for Fable 5.5? (again)](https://clawshelf.com/ai-videos/fable-5-5/time-fable-5-5-again?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@devteamdrew](https://x.com/devteamdrew/status/2112591205750001745) · [详情](prompts/devteamdrew-001745.md)
+- [Fable 5.5 created this beautiful luminescent river in a quiet night, sound on](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-beautiful-luminescent-river-quiet?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@scottstts](https://x.com/scottstts/status/2112601036804243871) · [详情](prompts/scottstts-243871.md)
 - [Fable 5.5 auditing the codebase I let Astra maintain](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-auditing-codebase-let-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@SoundDobad](https://x.com/SoundDobad/status/2112253485404369270) · [详情](prompts/sounddobad-369270.md)
 - [fable 5.5 - Dyson Fragment, single html, 1.5h](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-dyson-fragment-single-html?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@dummerspast39](https://x.com/dummerspast39/status/2112275947634446639) · [详情](prompts/dummerspast39-446639.md)
 - [I’ve repeated multiple times that the new Fable update has some unique understa…](https://clawshelf.com/ai-videos/fable-5-5/ive-repeated-multiple-times-fable-update?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@chetaslua](https://x.com/chetaslua/status/2112454035592638879) · [详情](prompts/chetaslua-638879.md)
@@ -116,8 +118,6 @@
 - [Anthropic next week when they release fable 5.5 and absolutely crush OpenAI](https://clawshelf.com/ai-videos/fable-5-5/anthropic-next-week-when-they-release?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@imjustnewatai](https://x.com/imjustnewatai/status/2111369364335190526) · [详情](prompts/imjustnewatai-190526.md)
 - [Paradise island 3D scene](https://clawshelf.com/ai-videos/fable-5-5/paradise-island-3d-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@badboyfoxy](https://x.com/badboyfoxy/status/2109523901105500260) · [详情](prompts/badboyfoxy-500260.md)
 - [What I imagine the live footage from Dario’s office looks like 15 minutes befor…](https://clawshelf.com/ai-videos/fable-5-5/dario-office-live-footage-parody?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@CampbellKaleb23](https://x.com/CampbellKaleb23/status/2110377591450259487) · [详情](prompts/campbellkaleb23-259487.md)
-- [Mathematicians are still working through OpenAI's 160+ page Navier–Stokes proof…](https://clawshelf.com/ai-videos/fable-5-5/navier-stokes-proof-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@imjustnewatai](https://x.com/imjustnewatai/status/2107590323128193174) · [详情](prompts/imjustnewatai-193174.md)
-- [I asked Claude Fable 5.5 to explain OpenAI's new 199-page quasi hiemann hypothe…](https://clawshelf.com/ai-videos/fable-5-5/quasi-riemann-hypothesis-proof-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@imjustnewatai](https://x.com/imjustnewatai/status/2107615459822453187) · [详情](prompts/imjustnewatai-453187.md)
 
 ## 如何使用 prompt
 
