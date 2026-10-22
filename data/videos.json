@@ -4979,5 +4979,25 @@
    "bytes": 5503422,
    "synced_at": "2026-10-21"
   }
+ },
+ {
+  "slug": "dummerspast39-296664",
+  "seo_slug": "svg-horse-riding-astronaut",
+  "model": "fable-5.5",
+  "author": "dummerspast39",
+  "author_url": "https://x.com/dummerspast39",
+  "post_url": "https://x.com/dummerspast39/status/2112490492684296664",
+  "title": "SVG horse riding astronaut",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-22",
+  "stats_snapshot": {
+   "views": 5256,
+   "captured_at": "2026-10-22"
+  }
  }
 ]
