@@ -4998,6 +4998,18 @@
   "stats_snapshot": {
    "views": 5256,
    "captured_at": "2026-10-22"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-296664/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-296664/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-296664/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-296664/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1106825,
+   "synced_at": "2026-10-22"
   }
  }
 ]
