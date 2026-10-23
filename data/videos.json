@@ -5043,5 +5043,65 @@
    "bytes": 6640559,
    "synced_at": "2026-10-23"
   }
+ },
+ {
+  "slug": "chetaslua-777086",
+  "seo_slug": "kimi-k3-1-pro-vs-fable",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2113503273361777086",
+  "title": "Kimi K3.1 Pro vs Fable 5.5",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 179268,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "luccacerf-870162",
+  "seo_slug": "automated-3d-character-pipeline-into-unity",
+  "model": "fable-5.5",
+  "author": "luccacerf",
+  "author_url": "https://x.com/luccacerf",
+  "post_url": "https://x.com/luccacerf/status/2113025837565870162",
+  "title": "Automated 3D character pipeline into Unity",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 20766,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "badboyfoxy-161227",
+  "seo_slug": "post-apocalyptic-open-world-game",
+  "model": "fable-5.5",
+  "author": "badboyfoxy",
+  "author_url": "https://x.com/badboyfoxy",
+  "post_url": "https://x.com/badboyfoxy/status/2112818987084161227",
+  "title": "Post-apocalyptic open-world game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 17202,
+   "captured_at": "2026-10-23"
+  }
  }
 ]
