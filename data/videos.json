@@ -5158,6 +5158,18 @@
   "stats_snapshot": {
    "views": 14129,
    "captured_at": "2026-10-24"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/bqxgqz-067762/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/bqxgqz-067762/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/bqxgqz-067762/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/bqxgqz-067762/poster.jpg",
+   "width": 794,
+   "height": 720,
+   "duration_ms": 4970,
+   "bytes": 412189,
+   "synced_at": "2026-10-24"
   }
  }
 ]
