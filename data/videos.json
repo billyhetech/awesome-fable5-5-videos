@@ -5171,5 +5171,45 @@
    "bytes": 412189,
    "synced_at": "2026-10-24"
   }
+ },
+ {
+  "slug": "dummerspast39-799858",
+  "seo_slug": "rick-sanchez-svg-comparison",
+  "model": "fable-5.5",
+  "author": "dummerspast39",
+  "author_url": "https://x.com/dummerspast39",
+  "post_url": "https://x.com/dummerspast39/status/2113497132841799858",
+  "title": "Rick Sanchez SVG comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-24",
+  "stats_snapshot": {
+   "views": 10306,
+   "captured_at": "2026-10-24"
+  }
+ },
+ {
+  "slug": "chetaslua-163955",
+  "seo_slug": "animated-guide-extreme-focus",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2113229122596163955",
+  "title": "Animated guide to extreme focus",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-24",
+  "stats_snapshot": {
+   "views": 9672,
+   "captured_at": "2026-10-24"
+  }
  }
 ]
