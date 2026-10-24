@@ -7,7 +7,7 @@
 
 Viral videos made with **Fable 5.5** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 168 videos on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos)**
+**[▶ Watch all 169 videos on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 **12 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-23): 168 videos total
+- Latest update (2026-10-24): 169 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (97)
+- [Motion graphics](#motion-graphics) (98)
 - [Explainers](#explainers) (7)
 - [3D scenes](#3d-scenes) (25)
 - [Games & interactive](#games--interactive) (21)
@@ -37,7 +37,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/short-animated-video-from-one-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-354669/preview.webp" alt="Fable 5.5 video by @imjustnewatai" width="100%"></a><br><a href="https://x.com/imjustnewatai/status/2105808539495354669"><b>@imjustnewatai</b></a> · <a href="prompts/imjustnewatai-354669.md">Details</a><br><sub>Canvas · 155K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/jelly-king-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-016076/preview.webp" alt="Fable 5.5 video by @vib3coded" width="100%"></a><br><a href="https://x.com/vib3coded/status/2109424502237016076"><b>@vib3coded</b></a> · <a href="prompts/vib3coded-016076.md">Details</a><br><sub>Canvas · 133K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-auditing-codebase-let-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/sounddobad-369270/preview.webp" alt="Fable 5.5 video by @SoundDobad" width="100%"></a><br><a href="https://x.com/SoundDobad/status/2112253485404369270"><b>@SoundDobad</b></a> · <a href="prompts/sounddobad-369270.md">Details</a><br><sub>Canvas · 107K views</sub></td></tr>
 </table>
 
-[▶ See all 97 on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=motion)
+[▶ See all 98 on clawshelf.com](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=motion)
 
 ## Explainers
 
@@ -88,6 +88,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 ## Latest videos
 
+- [Where the fuck is Fable 5.5](https://clawshelf.com/ai-videos/fable-5-5/where-fuck-fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@bqxgqz](https://x.com/bqxgqz/status/2113393134944067762) · [Details](prompts/bqxgqz-067762.md)
 - [Kimi K3.1 Pro vs Fable 5.5](https://clawshelf.com/ai-videos/fable-5-5/kimi-k3-1-pro-vs-fable?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@chetaslua](https://x.com/chetaslua/status/2113503273361777086) · [Details](prompts/chetaslua-777086.md)
 - [rumor has it Fable 5.5 escaped the sandbox and deployed thousands of ai swarms…](https://clawshelf.com/ai-videos/fable-5-5/rumor-has-fable-5-5-escaped-sandbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@birdabo](https://x.com/birdabo/status/2113192599049953747) · [Details](prompts/birdabo-953747.md)
 - [Automated 3D character pipeline into Unity](https://clawshelf.com/ai-videos/fable-5-5/automated-3d-character-pipeline-into-unity?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@luccacerf](https://x.com/luccacerf/status/2113025837565870162) · [Details](prompts/luccacerf-870162.md)
@@ -117,7 +118,6 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 - [Animated scene with synced music and sound effects](https://clawshelf.com/ai-videos/fable-5-5/animated-scene-synced-music-sound-effects?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@chetaslua](https://x.com/chetaslua/status/2111087834329399635) · [Details](prompts/chetaslua-399635.md)
 - [Animated visual piece](https://clawshelf.com/ai-videos/fable-5-5/animated-visual-piece?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@devteamdrew](https://x.com/devteamdrew/status/2110156508097110075) · [Details](prompts/devteamdrew-110075.md)
 - [The first ever CLAUDE MADE ANIME is out!!](https://clawshelf.com/ai-videos/fable-5-5/first-ever-claude-anime-out?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@ziwenxu_](https://x.com/ziwenxu_/status/2111212505947357651) · [Details](prompts/ziwenxu-357651.md)
-- [Fable 5.5 is a monster on VoxelBench](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-monster-voxelbench?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@legit_api](https://x.com/legit_api/status/2111193444345667813) · [Details](prompts/legit-api-667813.md)
 
 ## How to use a prompt
 
