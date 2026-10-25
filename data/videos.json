@@ -5254,6 +5254,18 @@
   "stats_snapshot": {
    "views": 54168,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/luccacerf-194391/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/luccacerf-194391/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/luccacerf-194391/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/luccacerf-194391/poster.jpg",
+   "width": 1256,
+   "height": 720,
+   "duration_ms": 60000,
+   "bytes": 10192266,
+   "synced_at": "2026-10-25"
   }
  }
 ]
