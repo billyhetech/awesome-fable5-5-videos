@@ -5235,5 +5235,25 @@
    "bytes": 17083851,
    "synced_at": "2026-10-24"
   }
+ },
+ {
+  "slug": "luccacerf-194391",
+  "seo_slug": "lot-people-how-games",
+  "model": "fable-5.5",
+  "author": "luccacerf",
+  "author_url": "https://x.com/luccacerf",
+  "post_url": "https://x.com/luccacerf/status/2114024932833194391",
+  "title": "A lot of people ask me how I build games.",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 54168,
+   "captured_at": "2026-10-25"
+  }
  }
 ]
