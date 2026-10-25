@@ -5267,5 +5267,45 @@
    "bytes": 10192266,
    "synced_at": "2026-10-25"
   }
+ },
+ {
+  "slug": "octoberry-173879",
+  "seo_slug": "3d-ant-scene-comparison",
+  "model": "fable-5.5",
+  "author": "Octoberry",
+  "author_url": "https://x.com/Octoberry",
+  "post_url": "https://x.com/Octoberry/status/2113525831876173879",
+  "title": "3D ant scene comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 20944,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "dummerspast39-101494",
+  "seo_slug": "h200-gpu-three-js",
+  "model": "fable-5.5",
+  "author": "dummerspast39",
+  "author_url": "https://x.com/dummerspast39",
+  "post_url": "https://x.com/dummerspast39/status/2113749909065101494",
+  "title": "H200 GPU in Three.js",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 6434,
+   "captured_at": "2026-10-25"
+  }
  }
 ]
