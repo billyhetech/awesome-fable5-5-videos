@@ -5286,6 +5286,18 @@
   "stats_snapshot": {
    "views": 20944,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/octoberry-173879/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/octoberry-173879/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/octoberry-173879/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/octoberry-173879/poster.jpg",
+   "width": 1150,
+   "height": 720,
+   "duration_ms": 49634,
+   "bytes": 5703903,
+   "synced_at": "2026-10-25"
   }
  },
  {
@@ -5306,6 +5318,18 @@
   "stats_snapshot": {
    "views": 6434,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-101494/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-101494/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-101494/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-101494/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 2792543,
+   "synced_at": "2026-10-25"
   }
  }
 ]
