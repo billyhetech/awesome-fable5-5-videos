@@ -5350,6 +5350,18 @@
   "stats_snapshot": {
    "views": 71324,
    "captured_at": "2026-10-27"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mirku21-644974/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mirku21-644974/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mirku21-644974/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mirku21-644974/poster.jpg",
+   "width": 720,
+   "height": 916,
+   "duration_ms": 25216,
+   "bytes": 1435838,
+   "synced_at": "2026-10-27"
   }
  }
 ]
