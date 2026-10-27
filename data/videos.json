@@ -5363,5 +5363,25 @@
    "bytes": 1435838,
    "synced_at": "2026-10-27"
   }
+ },
+ {
+  "slug": "keshiaiart-003390",
+  "seo_slug": "motion-graphics-by-keshiaiart",
+  "model": "fable-5.5",
+  "author": "keshiAIart",
+  "author_url": "https://x.com/keshiAIart",
+  "post_url": "https://x.com/keshiAIart/status/2114688618313003390",
+  "title": "「猫と追いかけっこシリーズ」の40話総集編です🐈",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 24472,
+   "captured_at": "2026-10-27"
+  }
  }
 ]
