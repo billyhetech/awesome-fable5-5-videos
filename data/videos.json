@@ -5331,5 +5331,25 @@
    "bytes": 2792543,
    "synced_at": "2026-10-25"
   }
+ },
+ {
+  "slug": "mirku21-644974",
+  "seo_slug": "boris-cherny-head-claude-code-anthropic",
+  "model": "fable-5.5",
+  "author": "mirku21",
+  "author_url": "https://x.com/mirku21",
+  "post_url": "https://x.com/mirku21/status/2114462105512644974",
+  "title": "Boris Cherny, Head of Claude Code at Anthropic, just shared an official tip bef…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 71324,
+   "captured_at": "2026-10-27"
+  }
  }
 ]
