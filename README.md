@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-fable5-5-videos/mosaic.3eea81954e.webp" alt="A wall of viral videos made with Fable 5.5: games, 3D scenes, explainers and motion graphics" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-fable5-5-videos/mosaic.1436776889.webp" alt="A wall of viral videos made with Fable 5.5: games, 3D scenes, explainers and motion graphics" width="100%"></a>
 
 Viral videos made with **Fable 5.5** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
