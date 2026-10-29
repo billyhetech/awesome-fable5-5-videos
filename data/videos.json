@@ -5395,5 +5395,66 @@
    "bytes": 93540816,
    "synced_at": "2026-10-27"
   }
+ },
+ {
+  "slug": "badboyfoxy-057244",
+  "seo_slug": "city-environment-interiors-props",
+  "model": "fable-5.5",
+  "author": "badboyfoxy",
+  "author_url": "https://x.com/badboyfoxy",
+  "post_url": "https://x.com/badboyfoxy/status/2115046586703057244",
+  "title": "City environment with interiors and props",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 22181,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "chetaslua-790170",
+  "seo_slug": "tesla-roadster-motion-design",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2115145163542790170",
+  "title": "Tesla Roadster motion design",
+  "category": "motion",
+  "tech_tags": [
+   "blender",
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 10401,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "vib3coded-737112",
+  "seo_slug": "interactive-jelly-octopus-soft-body-study",
+  "model": "fable-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2115173334031737112",
+  "title": "Interactive jelly octopus soft-body study",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 9566,
+   "captured_at": "2026-10-29"
+  }
  }
 ]

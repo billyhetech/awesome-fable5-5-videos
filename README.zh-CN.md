@@ -7,7 +7,7 @@
 
 用 **Fable 5.5**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 176 条视频](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos)**
+**[▶ 在 clawshelf.com 观看全部 179 条视频](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,14 +15,14 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **12 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-fable5-5-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-27):共 176 条
+- 最近更新(2026-10-29):共 179 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (102)
+- [动态图形](#动态图形) (103)
 - [讲解动画](#讲解动画) (7)
-- [3D 场景](#3d-场景) (26)
+- [3D 场景](#3d-场景) (28)
 - [游戏与交互](#游戏与交互) (22)
 - [长片](#长片) (17)
 - [音乐视频](#音乐视频) (2)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/short-animated-video-from-one-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-354669/preview.webp" alt="Fable 5.5 video by @imjustnewatai" width="100%"></a><br><a href="https://x.com/imjustnewatai/status/2105808539495354669"><b>@imjustnewatai</b></a> · <a href="prompts/imjustnewatai-354669.md">详情</a><br><sub>Canvas · 155K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/jelly-king-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-016076/preview.webp" alt="Fable 5.5 video by @vib3coded" width="100%"></a><br><a href="https://x.com/vib3coded/status/2109424502237016076"><b>@vib3coded</b></a> · <a href="prompts/vib3coded-016076.md">详情</a><br><sub>Canvas · 133K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-auditing-codebase-let-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/sounddobad-369270/preview.webp" alt="Fable 5.5 video by @SoundDobad" width="100%"></a><br><a href="https://x.com/SoundDobad/status/2112253485404369270"><b>@SoundDobad</b></a> · <a href="prompts/sounddobad-369270.md">详情</a><br><sub>Canvas · 107K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 102 条](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 103 条](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=motion)
 
 ## 讲解动画
 
@@ -56,7 +56,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/3d-rube-goldberg-machine-simulation?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-109991/preview.webp" alt="Fable 5.5 video by @imjustnewatai" width="100%"></a><br><a href="https://x.com/imjustnewatai/status/2105889407056109991"><b>@imjustnewatai</b></a> · <a href="prompts/imjustnewatai-109991.md">提示词</a><br><sub>Canvas · 43K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/anthropic-new-model-3d-test?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-933951/preview.webp" alt="Fable 5.5 video by @notjazii" width="100%"></a><br><a href="https://x.com/notjazii/status/2109283855282933951"><b>@notjazii</b></a> · <a href="prompts/notjazii-933951.md">详情</a><br><sub>Three.js · Blender · 29K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/fable-5-5/ai-model-introduction-song-3d?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos"><img src="https://media.clawshelf.com/ai-videos/fable-5.5/chrisgpt-649086/preview.webp" alt="Fable 5.5 video by @ChrisGPT" width="100%"></a><br><a href="https://x.com/ChrisGPT/status/2109570757579649086"><b>@ChrisGPT</b></a> · <a href="prompts/chrisgpt-649086.md">详情</a><br><sub>Three.js · ElevenLabs · Web Audio · 25K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 26 条](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=3d-scenes)
+[▶ 在 clawshelf.com 查看全部 28 条](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos&category=3d-scenes)
 
 ## 游戏与交互
 
@@ -88,6 +88,9 @@
 
 ## 最新收录
 
+- [City environment with interiors and props](https://clawshelf.com/ai-videos/fable-5-5/city-environment-interiors-props?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@badboyfoxy](https://x.com/badboyfoxy/status/2115046586703057244) · [详情](prompts/badboyfoxy-057244.md)
+- [Tesla Roadster motion design](https://clawshelf.com/ai-videos/fable-5-5/tesla-roadster-motion-design?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@chetaslua](https://x.com/chetaslua/status/2115145163542790170) · [详情](prompts/chetaslua-790170.md)
+- [Interactive jelly octopus soft-body study](https://clawshelf.com/ai-videos/fable-5-5/interactive-jelly-octopus-soft-body-study?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@vib3coded](https://x.com/vib3coded/status/2115173334031737112) · [详情](prompts/vib3coded-737112.md)
 - [Boris Cherny, Head of Claude Code at Anthropic, just shared an official tip bef…](https://clawshelf.com/ai-videos/fable-5-5/boris-cherny-head-claude-code-anthropic?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@mirku21](https://x.com/mirku21/status/2114462105512644974) · [详情](prompts/mirku21-644974.md)
 - [「猫と追いかけっこシリーズ」の40話総集編です🐈](https://clawshelf.com/ai-videos/fable-5-5/motion-graphics-by-keshiaiart?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@keshiAIart](https://x.com/keshiAIart/status/2114688618313003390) · [详情](prompts/keshiaiart-003390.md)
 - [A lot of people ask me how I build games.](https://clawshelf.com/ai-videos/fable-5-5/lot-people-how-games?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@luccacerf](https://x.com/luccacerf/status/2114024932833194391) · [详情](prompts/luccacerf-194391.md)
@@ -115,9 +118,6 @@
 - [Fable 5.5 and every model comings after it is so good they plan on making peopl…](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-every-model-comings-after?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@badboyfoxy](https://x.com/badboyfoxy/status/2111893133206409709) · [详情](prompts/badboyfoxy-409709.md)
 - [fable 5.5 seeing everything it has to fix in my codebase](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-seeing-everything-has-fix?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@alxfazio](https://x.com/alxfazio/status/2111832232323351001) · [详情](prompts/alxfazio-351001.md)
 - [Boat floating in a garden scene](https://clawshelf.com/ai-videos/fable-5-5/boat-floating-garden-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@pankajkumar_dev](https://x.com/pankajkumar_dev/status/2111518872272814233) · [详情](prompts/pankajkumar-dev-814233.md)
-- [Zelda Pokemon crossover game](https://clawshelf.com/ai-videos/fable-5-5/zelda-pokemon-crossover-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@MozeTech](https://x.com/MozeTech/status/2111652513846026593) · [详情](prompts/mozetech-026593.md)
-- [Pelican riding a bike animation](https://clawshelf.com/ai-videos/fable-5-5/pelican-riding-bike-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@dummerspast39](https://x.com/dummerspast39/status/2111391206848503923) · [详情](prompts/dummerspast39-503923.md)
-- [Fable 5.5 Supremacy](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-supremacy?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-5-videos) — [@chetaslua](https://x.com/chetaslua/status/2111458379386523724) · [详情](prompts/chetaslua-523724.md)
 
 ## 如何使用 prompt
 
